@@ -1,5 +1,5 @@
 <h2><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif/tydpNxSnNEgLvDm11D/giphy.gif" width="50" alt="">
-<img align='right' src="img/avatar.png" width="250" alt="">
+<img align='right' src="/img/code.gif" width="350" alt="">
 Hi, I'm Alex Schegolev!</h2>
 <p ><em>Java Developer</em></p>
 <p style="font-size: 20px;">!!! know about my experiences from <a href="https://hh.ru/resume/d6c003aeff0d97d65e0039ed1f635378364f75">my CV</a></p>
